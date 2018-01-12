@@ -1,0 +1,16 @@
+{
+  "name": "eslint-vue-prettier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.4.0",
+    "eslint-plugin-vue": "^4.2.0",
+    "prettier": "^1.10.2"
+  },
+  "scripts": {
+    "lint": "eslint --ext=vue test.vue"
+  }
+}

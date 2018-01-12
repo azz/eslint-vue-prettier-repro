@@ -1,0 +1,11 @@
+yarn run v1.3.2
+$ eslint --ext=vue test.vue
+
+/Users/azz/code/eslint-vue-prettier/test.vue
+   7:8  error  Delete `·`  prettier/prettier
+  12:6  error  Insert `;`  prettier/prettier
+
+✖ 2 problems (2 errors, 0 warnings)
+  2 errors, 0 warnings potentially fixable with the `--fix` option.
+
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
